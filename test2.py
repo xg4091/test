@@ -1,2 +1,2 @@
 print("hello again")
-prinf("again change")
+print("again change")
